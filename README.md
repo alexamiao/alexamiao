@@ -49,7 +49,7 @@ across income and demographic groups
 
 ## 🎯 Current Goal
 
-My GitHub portfolio is structured as a hazard → city → people pipeline:
+My GitHub portfolio is structured as a **hazard → city → people** pipeline:
 from modeling environmental hazards, to analyzing urban system vulnerability, and finally quantifying unequal impacts on communities.
 
 My goal is to build a cohesive, open-source portfolio demonstrating how **GeoAI and environmental data science**  
