@@ -49,7 +49,10 @@ across income and demographic groups
 
 ## 🎯 Current Goal
 
-Build a cohesive, open-source portfolio demonstrating how **GeoAI and environmental data science**  
+My GitHub portfolio is structured as a hazard → city → people pipeline:
+from modeling environmental hazards, to analyzing urban system vulnerability, and finally quantifying unequal impacts on communities.
+
+My goal is to build a cohesive, open-source portfolio demonstrating how **GeoAI and environmental data science**  
 can support **disaster risk reduction**, **urban climate resilience**, and **environmental justice**.
 
 ---
