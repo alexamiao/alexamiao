@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Junyi Miao (I go by Alexa).
+## Hi there 👋, I'm Junyi Miao  (I go by Alexa).
 
 I work at the intersection of **Environmental Data Science**, **GeoAI**, and **Climate Analytics**,  
 building data-driven tools to understand **natural hazards**, **urban climate risk**, and **environmental equity**.
