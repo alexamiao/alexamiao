@@ -1,66 +1,69 @@
 ## Hi there 👋, I'm Junyi Miao  (I go by Alexa).
 
-I work at the intersection of **Environmental Data Science**, **GeoAI**, and **Climate Analytics**,  
-building data-driven tools to understand **natural hazards**, **urban climate risk**, and **environmental equity**.
+I’m a data analyst with a strong focus on analytics, AI-powered data applications, and business intelligence. My work sits at the intersection of data analytics, applied AI, and business decision-making — turning complex data into clear, actionable insights.
 
-My work focuses on applying **remote sensing**, **machine learning**, and **geospatial analysis**  
-to support **community resilience**, **sustainable cities**, and **equitable climate adaptation**.
+I have hands-on experience building end-to-end analytics solutions, including:
+- data cleaning and validation
+- KPI dashboards and reporting
+- AI-assisted analytics pipelines
+- stakeholder-facing insights that support real business decisions
 
----
-
-## 🌍 Research & Project Focus
-
-I organize my work around three connected themes:
-
-### 🌋 Disaster GeoAI  
-AI + remote sensing for disaster prediction, monitoring, and risk mapping  
-→ wildfire, flood, earthquake, drought analytics  
-
-🔗 **Repository:** `disaster-geoai`
+My background combines analytics, AI experimentation, and systems thinking, with experience supporting business operations, reporting, and product teams.
 
 ---
 
-### 🏙️ Urban Resilience AI  
-Geospatial and machine learning models for urban heat, infrastructure vulnerability,  
-and climate-resilient city systems  
+## 💼 What I Work On
 
-🔗 **Repository:** `urban-resilience-ai`
+- 📊 Data analytics & business intelligence (SQL, Excel, Power BI, Tableau)
+- 🤖 Applied AI & GenAI systems for analytics and decision support
+- 🧪 Data validation, QA/QC, and evaluation pipelines
+- 🔁 ETL workflows and reproducible analytics projects
+- 🧩 Translating business questions into data-driven solutions
 
 ---
 
-### ⚖️ Equity & Environmental Analytics  
-Quantifying environmental exposure disparities and climate burdens  
-across income and demographic groups  
+## 📌 Selected Projects
 
-🔗 **Repository:** `equity-environment`
+🔹 AI-Powered Analytics: Local RAG System  
+Built a secure, local AI-assisted analytics system using Python and Docker.
+- Achieved 97.5% validated answer accuracy
+- Reduced query latency to ~2.4 seconds
+- Focused on reliability, evaluation, and real-world usability
+
+🔗 Repository:rag-llm-retrieval-system
+
+🔹 Business Intelligence & Data Visualization  
+Developed interactive dashboards and KPI reports using Tableau and Power BI.
+- Reduced analysis time by 35–60%
+- Supported data-driven decisions across business teams
+
+🔗 Tableau dashboard link: https://lnkd.in/gfEp_6sj
+
+🔹 Data-Driven Risk & Trend Analysis  
+Exploratory and analytical projects using Python and SQL to identify trends, patterns, and insights from large datasets.
+
+🔗 Repository:medallion-etl-data-cleaning-pipeline
+
+🔗 Repository:ai-agent-driven-csv-aggregation
 
 ---
 
 ## 🧰 Skills & Tools
 
-- **Programming:** Python (Pandas, NumPy, Scikit-Learn), SQL  
-- **Geospatial:** GeoPandas, Rasterio, GDAL, OSMnx  
-- **Machine Learning:** tree-based models, spatial regression, baseline deep learning  
-- **Data Sources:** Remote sensing (Sentinel, Landsat), Census / ACS, EPA datasets  
-- **Visualization:** Matplotlib, Folium, Kepler.gl, Tableau  
-- **Workflow:** reproducible notebooks, ETL pipelines, research-oriented GitHub repos  
-
----
-
-## 🎯 Current Goal
-
-My GitHub portfolio is structured as a **hazard → city → people** pipeline:
-from modeling environmental hazards, to analyzing urban system vulnerability, and finally quantifying unequal impacts on communities.
-
-My goal is to build a cohesive, open-source portfolio demonstrating how **GeoAI and environmental data science**  
-can support **disaster risk reduction**, **urban climate resilience**, and **environmental justice**.
+- **Data Analytics:** SQL, Excel, Python (Pandas, NumPy)
+- **BI & Visualization:** Power BI, Tableau, Matplotlib
+- **AI & ML:** GenAI applications, local LLM pipelines, evaluation & experimentation
+- **Data Engineering:** ETL pipelines, Docker, reproducible workflows
+- **Cloud & Platforms:** AWS (EC2, S3), Databricks
+- **Strengths:** data quality, validation, stakeholder communication
 
 ---
 
 ## 🤝 Open to
 
-- Research collaboration  
-- Climate / urban / geospatial data projects  
-- Applied data science & GeoAI roles  
+- Data Analyst / Business Data Analyst roles
+- Analytics & BI positions
+- Applied AI / Analytics Engineer roles
+- Data-driven business and product teams
 
 Feel free to explore my repositories or connect.
