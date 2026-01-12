@@ -24,27 +24,23 @@ My background combines analytics, AI experimentation, and systems thinking, with
 
 ## 📌 Selected Projects
 
-🔹 **AI-Powered Analytics: Local RAG System** 
-Built a secure, local AI-assisted analytics system using Python and Docker.
+🔹 **AI-Powered Analytics: Local RAG System**
+- Built a secure, local AI-assisted analytics system using Python and Docker.
 - Achieved 97.5% validated answer accuracy
 - Reduced query latency to ~2.4 seconds
-- Focused on reliability, evaluation, and real-world usability
+- Focused on reliability, evaluation, and real-world usability<br/>
+🔗 Repository:rag-llm-retrieval-system<br/>
+🔗 Repository:ai-agent-driven-csv-aggregation
 
-🔗 Repository:rag-llm-retrieval-system
-
-🔹 **Business Intelligence & Data Visualization**  
-Developed interactive dashboards and KPI reports using Tableau and Power BI.
+🔹 **Business Intelligence & Data Visualization** 
+- Developed interactive dashboards and KPI reports using Tableau and Power BI.
 - Reduced analysis time by 35–60%
-- Supported data-driven decisions across business teams
-
+- Supported data-driven decisions across business teams<br/>
 🔗 Tableau dashboard link: https://lnkd.in/gfEp_6sj
 
 🔹 **Data-Driven Risk & Trend Analysis**  
-Exploratory and analytical projects using Python and SQL to identify trends, patterns, and insights from large datasets.
-
-🔗 Repository:medallion-etl-data-cleaning-pipeline
-
-🔗 Repository:ai-agent-driven-csv-aggregation
+- Exploratory and analytical projects using Python and SQL to identify trends, patterns, and insights from large datasets.<br/>
+🔗 Repository:medallion-etl-data-cleaning-pipeline<br/>
 
 ---
 
